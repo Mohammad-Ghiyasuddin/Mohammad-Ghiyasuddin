@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Solution Architect and Aspiring DevOps Engineer
 -----------------------------------------------------
 
-Cloud Engineer with hands-on experience in multi cloud infrastructure Google Cloud Platform, AWS Cloud, Oracle Cloud Infrastructure and Azure. Detail-oriented and eager to contribute to building and maintaining robust cloud infrastructure. Passionate about optimizing operations for high availability, and committed to continuous learning and acquiring best practices in cloud technologies to become a valuable asset to the team. Experienced with CI/CD pipelines, leveraging configuration management, automation, containerization, and other DevOps tools. Offering an extensive understanding of high availability architecture and concepts. Excellent proficiency in Google Cloud Platform, Oracle Cloud Infrastructure, AWS, Multicloud, Docker, Jenkins, Kubernetes, Linux, Git&GitHub, Bash, Python, React.js, Tailwind CSS, and JavaScript. Willing to apply the acquired skills and knowledge for the growth of a promising organization, working effectively. Excellent communication, interpersonal, intuitive, and ability to work efficiently in both independent and teamwork environments.
+Cloud Engineer with hands-on experience in multi cloud infrastructure Google Cloud Platform, AWS Cloud, Oracle Cloud Infrastructure and Azure. Detail-oriented and eager to contribute to building and maintaining robust cloud infrastructure. Passionate about optimizing operations for high availability, and committed to continuous learning and acquiring best practices in cloud technologies to become a valuable asset to the team. <br>Experienced with CI/CD pipelines, leveraging configuration management, automation, containerization, and other DevOps tools. Offering an extensive understanding of high availability architecture and concepts. </br> <br>Excellent proficiency in Google Cloud Platform, Oracle Cloud Infrastructure, AWS, Multicloud, Docker, Jenkins, Kubernetes, Linux, Git&GitHub, Bash, Python, React.js, Tailwind CSS, and JavaScript. </br> <br> <br>Willing to apply the acquired skills and knowledge for the growth of a promising organization, working effectively. Excellent communication, interpersonal, intuitive, and ability to work efficiently in both independent and teamwork environments.</br>
 
 * ✉️  You can contact me at [mohammadgayasuddin2003@gmail.com](mailto:mohammadgayasuddin2003@gmail.com)
 * 🤝  I'm open to collaborating on Cloud, devops and Web Development Project.
@@ -26,5 +26,9 @@ Cloud Engineer with hands-on experience in multi cloud infrastructure Google Clo
 ### Badges
 
 <b>My GitHub Stats</b>
+
+![](https://github-readme-stats.vercel.app/api?username=Mohammad-Ghiyasuddinas&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghiyasuddin&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ghiyasuddin&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <a href="http://www.github.com/Mohammad-Ghiyasuddin/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghiyasuddin/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
