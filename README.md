@@ -9,8 +9,7 @@ Cloud Engineer with hands-on experience in multi cloud infrastructure Google Clo
 * ✉️  You can contact me at [mohammadgayasuddin2003@gmail.com](mailto:mohammadgayasuddin2003@gmail.com)
 * 🤝  I'm open to collaborating on Cloud, devops and Web Development Project.
 
-<a href="https://www.github.com/Mohammad-Ghiyasuddin/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Mohammad-Ghiyasuddin/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
@@ -29,5 +28,3 @@ src="https://img.shields.io/github/followers/Mohammad-Ghiyasuddin/?logo=github&s
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Mohammad-Ghiyasuddin/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghiyasuddin/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Mohammad-Ghiyasuddin/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ghiyasuddin/&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
