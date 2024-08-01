@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammad Gayasuddin
 ===========================================================================================================================================
 
-Cloud Solution Architect and Aspiring DevOps Engineer
+Passionate Cloud Engineer and Devops Engineer
 -----------------------------------------------------
 
 Cloud Engineer with hands-on experience in multi cloud infrastructure Google Cloud Platform, AWS Cloud, Oracle Cloud Infrastructure and Azure. Detail-oriented and eager to contribute to building and maintaining robust cloud infrastructure. Passionate about optimizing operations for high availability, and committed to continuous learning and acquiring best practices in cloud technologies to become a valuable asset to the team. <br><br>Experienced with CI/CD pipelines, leveraging configuration management, automation, containerization, and other DevOps tools. Offering an extensive understanding of high availability architecture and concepts. </br> <br>Excellent proficiency in Google Cloud Platform, Oracle Cloud Infrastructure, AWS, Multicloud, Docker, Jenkins, Kubernetes, Linux, Git&GitHub, Bash, Python, React.js, Tailwind CSS, and JavaScript. </br> <br> <br>Willing to apply the acquired skills and knowledge for the growth of a promising organization, working effectively. Excellent communication, interpersonal, intuitive, and ability to work efficiently in both independent and teamwork environments.</br>
