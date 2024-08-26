@@ -39,4 +39,4 @@ Passionate Cloud Engineer with hands-on experience in multi cloud infrastructure
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammad-Ghiyasuddin&label=Visitors%20Counter&icon=6&pretty=false)](https://visitcount.itsvg.in)
-![](https://github-profile-trophy.vercel.app/?username=Mohammad-Ghiyasuddin&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+
