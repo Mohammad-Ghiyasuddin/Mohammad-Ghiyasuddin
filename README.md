@@ -27,7 +27,7 @@ Passionate Cloud Engineer with hands-on experience in multi cloud infrastructure
 
 <b>My GitHub Stats</b>
 
-![](https://github-readme-stats.vercel.app/api?username=Mohammad-Ghiyasuddinas&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mohammad-Ghiyasuddin&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghiyasuddin&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ghiyasuddin&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
