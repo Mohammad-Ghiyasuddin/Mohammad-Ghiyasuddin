@@ -32,3 +32,11 @@ Passionate Cloud Engineer with hands-on experience in multi cloud infrastructure
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ghiyasuddin&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <a href="http://www.github.com/Mohammad-Ghiyasuddin/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Ghiyasuddin/&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+## 🏆 GitHub Trophies
+ ![](https://github-profile-trophy.vercel.app/?username=Mohammad-Ghiyasuddin&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mohammad-Ghiyasuddin&label=Visitors%20Counter&icon=6&pretty=false)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=Mohammad-Ghiyasuddin&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
